@@ -1,5 +1,12 @@
 # homework
-..233
+..23333..
+
+
+
+
+
+
+
 this is my C++ homework.
 
 /*
